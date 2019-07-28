@@ -11,7 +11,12 @@ Wish Wang
 ### XML Pipeline
 * Used computer camera to initialize 
 - Used the Openface model and will use AU regression values in the future
-
+ 
 ![](IM/AUClassificationChart.PNG)
 ![](IM/OpenFaceImage.PNG)
 ### Python Image Feature
+
+![](IM/ExampleClassification.png)
+### Improvement of emotion classification
+
+### Connect to openface?!
