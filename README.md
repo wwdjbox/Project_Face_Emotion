@@ -12,8 +12,8 @@ Wish Wang
 * Used computer camera to initialize 
 - Used the Openface model and will use AU regression values in the future
 * Created PythonImageFeature
- * Cloned XML pipeline to python file by using video from camera as the input
- - Output an array of emotion classification probabilities
+     * Cloned XML pipeline to python file by using video from camera as the input
+     - Output an array of emotion classification probabilities
 
 ![](IM/AUClassificationChart.PNG)
 ![](IM/OpenFaceImage.PNG)
