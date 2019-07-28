@@ -18,7 +18,12 @@ Wish Wang
 ![](IM/AUClassificationChart.PNG)
 ![](IM/OpenFaceImage.PNG)
 ### Python Image Feature (image_feature.py)
-* 
+* Based on a Xception CNN model already trained (link: https://github.com/oarriaga/face_classification)
+- Included emotions: angry, disgust, fear, happy, sad, surprise, and neutral
+* Recorded the video from camera using cv2 module
+    * Avi format
+    - Include face identification (using rectangle to show full face), emotion classification and gender classification (by using text on top of face)
+    * Include stopwatch to make sure there will not be losing frames in video
 
 ![](IM/ExampleClassification.png)
 ### Improvement of emotion classification
