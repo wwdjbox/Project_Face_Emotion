@@ -33,5 +33,6 @@ Wish Wang
     - New frame will be stored in memory and another frame would be captured from the camera
     * Ensure emotion classification would not be changing at a fast rate
 
-### Connect to openface
+### Display the output
 * Use final 2D numpy array as output from python file
+- Display in graph and as text file
