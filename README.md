@@ -1,4 +1,4 @@
-# Project_Face_Emotionn
+# Project_Face_Emotion
 Wish Wang
 
 ## Purpose of project
